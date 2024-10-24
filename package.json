@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ewelink-api": "^3.1.1"
+  }
+}
